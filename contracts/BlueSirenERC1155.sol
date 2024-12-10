@@ -3,7 +3,7 @@ pragma solidity ^0.8.2;
 
 import "./ERC1155.sol";
 
-contract NobracERC1155 is ERC1155 {
+contract BlueSirenERC1155 is ERC1155 {
 
     string public name;
 

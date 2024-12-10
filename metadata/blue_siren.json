@@ -1,0 +1,64 @@
+{
+    "name": "The Ethereal Siren",
+    "description": "A mythical guardian of the seas, The Ethereal Siren embodies the grace and power of the ocean. Her attributes combine the mesmerizing beauty of the marine world with otherworldly charm, creating an aura that is both enchanting and formidable.",
+    "image": "https://ipfs.io/ipfs/QmNzyCbTLP2ssZeEwpN4Hxaz3jjv3Fi3mVX97Z2KziDUA6",
+    "attributes": [
+      {
+        "trait_type": "Captivating",
+        "value": "True"
+      },
+      {
+        "trait_type":"Calm",
+        "value": "True"
+    },
+    {
+        "trait_type":"Charming",
+        "value": "True"
+    },
+      {
+        "trait_type": "Tail Color",
+        "display_type": "text",
+        "value": "Iridescent Blue",
+        "description": "Her shimmering tail reflects the deep blue hues of the ocean, shifting to silver in the light, symbolizing her connection to the endless depths."
+      },
+      {
+        "trait_type": "Hair Style",
+        "display_type": "text",
+        "value": "Flowing Seaweed",
+        "description": "Cascading locks resemble strands of seaweed, moving effortlessly with the currents, reflecting her eternal bond with the ocean’s flow."
+      },
+      {
+        "trait_type": "Power Level",
+        "display_type": "number",
+        "value": 85,
+        "max_value": 100,
+        "description": "A powerful force of the sea, her strength is unmatched, commanding the waves and ensuring balance in her watery domain."
+      },
+      {
+        "trait_type": "Singing Ability",
+        "display_type": "number",
+        "value": 95,
+        "max_value": 100,
+        "description": "Her enchanting voice, capable of calming storms or luring sailors into the ocean’s depths, is unparalleled among the sirens."
+      },
+      {
+        "trait_type": "Accessory",
+        "display_type": "text",
+        "value": "Pearl Necklace",
+        "description": "A necklace crafted from luminous pearls, symbolizing her connection to the treasures of the ocean floor."
+      },
+      {
+        "trait_type": "Boost",
+        "display": "boost_number",
+        "value": 150,
+        "description": "Provides a 10-point boost to Singing Ability and Charm Level, enhancing her captivating presence."
+      },
+      {
+        "trait_type": "number",
+        "display": "Generation",
+        "value": 1
+      }
+       
+
+    ]
+}
